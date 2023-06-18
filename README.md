@@ -1,4 +1,4 @@
-# -QT-openCV-
+# QT_openCV_ImageManagementKit
 这是用一款QT+openCV开发的图像处理工具，可实现对图片和视频的的灰度化、二值化、拉普拉斯锐化、颜色增强等一系列的处理功能。
 ## 程序说明
 
